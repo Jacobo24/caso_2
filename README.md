@@ -1,6 +1,6 @@
 #  Caso práctico 2
 
-link al repositorio: 
+link al repositorio: https://github.com/Jacobo24/caso_2.git
 
 ## Ejercicio práctico1 (3Puntos): Creación de una clase en Python que representa una matriz.
 Para este ejercicio, deberás crear una clase que representa una matriz. Las operaciones que esta clase debe permitir son la creación de una matriz a partir de una lista de listas, la impresión de la matriz en una forma legible, y el cálculo de la transpuesta de la matriz. Asegúrate de que cada método tenga una única responsabilidad.
